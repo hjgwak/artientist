@@ -1,0 +1,43 @@
+# Publications
+
+- title: "ViBE: a hierarchical BERT model to identify eukaryotic viruses using metagenome sequencing data"
+  authors: <u>HJ Gwak</u>, M Rho
+  year: 2022
+  journal: Briefings in Bioinformatics
+  doi: 
+
+- title: Transformer-based embedding applied to classify bacterial species using sequencing reads
+  authors: <u>HJ Gwak</u>, M Rho
+  year: 2022
+  journal: IEEE International Conference on Big Data and Smart Computing (BigComp)
+  doi: 10.1109/BigComp54360.2022.00084
+
+- title: "MegaR: an interactive R package for rapid sample classification and phenotype prediction using metagenome profiles and machine learning"
+  authors: E Dhungel, Y Mreyond, <u>HJ Gwak</u>, A Rajeh, M Rho, TH Ahn
+  year: 2021
+  journal: BMC bioinformatics
+  doi: 10.1186/s12859-020-03933-4
+
+- title: Association of Microbial Dysbiosis with Gallbladder Diseases Identified by Bile Microbiome Profiling
+  authors: SJ Choi, Y Kim, J Jeon, <u>HJ Gwak</u>, M Kim, K Kang, Y Kim, J Jeong, YJ Jung, KG Lee, HS Choi, DH Jung, SG Lee, Y Lee, SJ Shin, K Jang, M Rho, D Choi
+  year: 2021
+  journal: Journal of Korean medical science
+  doi: 10.3346/jkms.2021.36.e189
+
+- title: Application of computational approaches to analyze metagenomic data
+  authors: <u>HJ Gwak</u>, SJ Lee, M Rho
+  year: 2021
+  journal: Journal of Microbiology
+  doi: 10.1007/s12275-021-0632-8
+
+- title: "Data-driven modeling for species-level taxonomic assignment from 16S rRNA: application to human microbiomes"
+  authors: <u>HJ Gwak</u>, M Rho
+  year: 2020,
+  journal: Frontiers in microbiology
+  doi: 10.3389/fmicb.2020.570825
+
+- title: Functional dynamics of bacterial species in the mouse gut microbiome revealed by metagenomic and metatranscriptomic analysis
+  authors: YW Chung, <u>HJ Gwak</u>, S Moon, M Rho, JH Ryu
+  year: 2020,
+  journal: PLoS One
+  doi: 10.1371/journal.pone.0227886
