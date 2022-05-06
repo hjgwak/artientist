@@ -20,10 +20,10 @@ resume_contact_email:           "khj2830@gmail.com"
 resume_contact_telephone:       "+82 10-4922-0432"
 resume_contact_address:         ""
 
-resume_header_contact_info:     "Ph. D. candidate as a scientist • Beginner vocalist as an artist"
+resume_header_contact_info:     "Ph.D. candidate as a scientist • Beginner vocalist as an artist"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>I'm trying to play a double game. I play the first game as a scientist. The goal of the game is to understand the language of nature. I work hard in the field of machine learning on scientific data, especially biological data. I play the other game as an artist. Although it's still in its infancy, I want it to be a part of me.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
